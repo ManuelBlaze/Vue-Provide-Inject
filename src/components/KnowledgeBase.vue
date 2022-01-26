@@ -8,7 +8,5 @@
 </template>
 
 <script>
-export default {
-  emits: ['select-topic'],
-};
+export default {};
 </script>
